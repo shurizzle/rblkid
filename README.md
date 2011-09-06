@@ -1,0 +1,4 @@
+RBLKID
+=======
+
+libblkid ruby bindings.
